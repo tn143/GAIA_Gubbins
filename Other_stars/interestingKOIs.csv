@@ -1,0 +1,3 @@
+ID,MH,eMH,Teff,eTeff,logg,elogg,Notes
+koi6194,0.3,0.03,4699,70,3.02,0.002,"apokasc DR13, MH is feh"
+koi3890,-0.13,0.1,4726,79,2.92,0.1,SPC with seismic logg prior
